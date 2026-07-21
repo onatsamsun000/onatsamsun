@@ -1,0 +1,8 @@
+site_name: Onat Samsun
+site_description: Onat Samsun Tercüme Bürosuna Ait Dökümentasyon
+
+nav:
+  - Ana Sayfa: index.md
+
+theme:
+  name: readthedocs
