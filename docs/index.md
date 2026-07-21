@@ -104,7 +104,7 @@ Deneyimli bir **tercüme bürosu**, farklı sektörlerde ihtiyaç duyulan çevir
 
 ## Online Tercüme Hizmeti Alınabilir Mi?
 
-Günümüzde birçok **[samsun tercüme bürosu](https://www.samsuntercume.tr/)** online hizmet sunmaktadır. Belgeler dijital ortamda iletilebilir ve süreç uzaktan yönetilebilir.
+Günümüzde birçok **[samsun noter onaylı tercüme](https://www.samsuntercume.tr/)** online hizmet sunmaktadır. Belgeler dijital ortamda iletilebilir ve süreç uzaktan yönetilebilir.
 
 Bu yöntem hem zamandan tasarruf sağlar hem de farklı şehirlerde yaşayan kişiler için kolaylık sunar.
 
